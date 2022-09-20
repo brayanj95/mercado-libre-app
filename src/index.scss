@@ -1,0 +1,20 @@
+/*abstracts*/
+@use './scss/abstracts/variables';
+
+/*base*/
+@use './scss/base/reset';
+@use './scss/base/base';
+
+/*nav*/
+@use './scss/nav/search';
+
+
+/*productList*/
+@use './scss/productList/productList';
+
+/*descriptionProduct*/
+@use './scss/productDescription/productDescription';
+
+
+/*breadCrumbs*/
+@use './scss/breadCrumb/breadCrumb.scss';

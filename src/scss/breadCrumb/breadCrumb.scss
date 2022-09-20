@@ -1,0 +1,20 @@
+
+.container-breadCrumbs {
+    min-width: 66%;
+    max-width: 66%;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: var(--spacing-margin);
+    margin-bottom: var(--spacing-margin);
+    display: flex;
+    align-items: center;
+}
+
+.breadCrumbs {
+    font-size: 12px;
+    color: #999999;
+}
+
+.separator {
+    padding: 0 5px;
+}
